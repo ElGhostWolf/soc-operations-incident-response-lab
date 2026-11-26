@@ -50,7 +50,7 @@ pfSense bloqueó en la interfaz WAN el tráfico proveniente de `192.168.38.128`;
 
 ## Informe del proyecto
 
-[Descargar informe SOC en PDF](docs/Informe_SOC_Portafolio_Publico.pdf). La copia pública omite la portada y las insignias Cisco; también se retiró la cédula.
+[Descargar informe SOC en PDF](docs/Informe_SOC_Portafolio_Publico.pdf). 
 
 ## Alcance
 
