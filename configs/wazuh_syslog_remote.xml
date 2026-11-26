@@ -1,0 +1,7 @@
+<!-- Wazuh Manager: receive Syslog UDP 514 from pfSense -->
+<remote>
+  <connection>syslog</connection>
+  <port>514</port>
+  <protocol>udp</protocol>
+  <allowed-ips>10.10.100.3</allowed-ips>
+</remote>
